@@ -1,0 +1,32 @@
+.flex {
+    padding: 25px 4% 0 0;
+    display: flex;
+}
+.fixPad {
+    padding-top: 2%;
+    padding-left: 2%;
+}
+.titleHead {
+    text-align: center;
+}
+.leftGap {
+    padding-left: 20px;
+}
+label, .timerHead {
+    color: red;
+    font-weight: bold; 
+}
+input, #timer {
+    border: 4px solid greenyellow;
+    text-align: center;
+    font-weight: bold;
+    pointer-events: none;
+    color: black;
+}
+.platform {
+    border: 4px solid black;
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+    background-color: #000;
+}
