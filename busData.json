@@ -1,0 +1,40 @@
+{
+    "busDetails": [
+        {
+            "busNo": "153C",
+            "busName": "TNSTC",
+            "platform": "04",
+            "from": "KAARAIKUDI",
+            "to": "CHENNAI",
+            "start": "08:00",
+            "end": "22:30"
+        },
+        {
+            "busNo": "336B",
+            "busName": "TNSTC",
+            "platform": "02",
+            "from": "KAARAIKUDI",
+            "to": "THENI",
+            "start": "22:00",
+            "end": "08:55" 
+        },
+        {
+            "busNo": "048",
+            "busName": "KPN TRAVELS",
+            "platform": "01",
+            "from": "KAARAIKUDI",
+            "to": "MADURAI",
+            "start": "12:00",
+            "end": "15:30" 
+        },
+        {
+            "busNo": "489C",
+            "busName": "TNSTC",
+            "platform": "06",
+            "from": "KAARAIKUDI",
+            "to": "COIMBATORE",
+            "start": "19:00",
+            "end": "05:30" 
+        }
+    ]
+}
